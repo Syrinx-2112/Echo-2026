@@ -252,7 +252,7 @@ xdg-open rapport_trame.html        # macOS : open · Windows : start
 
 ## Licence
 
-*À choisir avant publication* (MIT, Apache-2.0, GPL-3.0…) — ajoutez un fichier `LICENSE` à la racine.
+MIT
 
 <div align="center">
 <sub>✦ Δ — la Trame se lit mieux quand on l'a d'abord mesurée ✦</sub>
